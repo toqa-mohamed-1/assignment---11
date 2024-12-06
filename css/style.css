@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+header{
+    background-color: #24353F;
+}
+.inner{
+padding-top: 100px;
+box-shadow: 10px 10px 10px 10px;
+}
+
+h2{
+    color:#17A2B8 ;
+    font-family: "Titillium Web", sans-serif;
+}
+p{
+    color: azure;
+}
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+input{
+    background-color: transparent;
+}
